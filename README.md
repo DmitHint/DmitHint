@@ -39,7 +39,7 @@ I am a student of software engineering. Studying a large amount of technology wh
 
 #### Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=520&langs_count=10&theme=dark&hide_border=false&username=dmit-hint" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=520&langs_count=10&theme=dark&hide_border=false&username=dmithint" height="250" alt="languages graph"  />
 </div>
 
 #### LeetCode
